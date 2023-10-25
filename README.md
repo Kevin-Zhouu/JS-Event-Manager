@@ -5,7 +5,7 @@ Hi Jacob,
 
 I hope you are well! It was awesome chatting with you over Lark yesterday at 10:00 AM for TikTok Front End Engineering Internship(Trust and Safety). After the interview, I did research on the closure approach and came up with this solution to implement the addOnce method for EventManager class :
 
-```
+```javascript
 class EventManager {
     addOnce(eventName, callback) {
       if(typeof callback !== "function") return;
