@@ -3,7 +3,7 @@
 
 Hi Jacob,
 
-I hope you are well! It was awesome chatting with you over Lark yesterday at 10:00 AM for TikTok Front End Engineering Internship(Trust and Safety). After the interview, I did research on the closure approach and came up with this solution to implement the addOnce method for EventManager class :
+I hope you are well! It was awesome chatting with you over Lark yesterday at 10:00 AM for **TikTok Front End Engineering Internship(Trust and Safety)**. After the interview, I did research on the closure approach and came up with this solution to implement the `addOnce` method for `EventManager` class :
 
 ```javascript
 class EventManager {
@@ -56,15 +56,15 @@ I have a deep passion for frontend development and find myself resonating with t
 Wishing you a great afternoon!
 
 Best,
+
 Shiyuan Zhou
 
 
 ## Directory Structure
-
-- `EventManager.js`: Contains the `EventManager` class.
-- `EventManager.ts`: TypeScript Implmentation of `EventManager` class.
-- `EventManager.test.js`: Contains Jest tests for the `EventManager` class.
-- `index.js`: Demonstrates how to use the `EventManager` class
+- [`EventManager.js`](https://github.com/Kevin-Zhouu/JS-Event-Manager/blob/main/EventManager.js): Contains the `EventManager` class.
+- [`EventManager.ts`](https://github.com/Kevin-Zhouu/JS-Event-Manager/blob/main/EventManager.ts): TypeScript Implmentation of `EventManager` class.
+- [`EventManager.test.js`](https://github.com/Kevin-Zhouu/JS-Event-Manager/blob/main/EventManager.test.js): Contains Jest tests for the `EventManager` class.
+- [`index.js`](https://github.com/Kevin-Zhouu/JS-Event-Manager/blob/main/index.js): Demonstrates how to use the `EventManager` class
 
 ## Start the example application
 ``` yarn start ```
